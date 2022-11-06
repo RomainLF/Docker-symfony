@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}Home Page Shop Test{% endblock %}</title>
+    {% block stylesheets %}
+        <link href="{{ asset('assets/css/home.css') }}" type="text/css" rel="stylesheet">
+    {% endblock %}
+</head>
+<body>
+    <div class="content">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>
