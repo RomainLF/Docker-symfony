@@ -6,6 +6,13 @@
     {% block stylesheets %}
         <link href="{{ asset('assets/css/home.css') }}" type="text/css" rel="stylesheet">
     {% endblock %}
+    {% if app.user %}
+        <a href="{{ path('account') }}">Mon compte</a>
+        <a href="{{ path('app_logout') }}">Déconnexion</a>
+    {% else %}
+        <a href="{{ path('app_login') }}">Connexion</a>
+        <a href="{{ path('register') }}">Inscription</a>
+    {% endif %}
 </head>
 <body>
     <div class="content">
