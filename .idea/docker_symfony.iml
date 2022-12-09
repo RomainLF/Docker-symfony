@@ -140,6 +140,9 @@
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/myclabs/deep-copy" />
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/phar-io/version" />
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/easycorp/easyadmin-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-uuid" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

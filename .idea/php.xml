@@ -136,6 +136,9 @@
       <path value="$PROJECT_DIR$/project/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/project/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/project/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-uuid" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2">
