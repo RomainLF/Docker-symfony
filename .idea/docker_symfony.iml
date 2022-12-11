@@ -143,6 +143,8 @@
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/easycorp/easyadmin-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/uid" />
       <excludeFolder url="file://$MODULE_DIR$/project/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/jms/metadata" />
+      <excludeFolder url="file://$MODULE_DIR$/project/vendor/vich/uploader-bundle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
